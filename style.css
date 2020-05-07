@@ -58,8 +58,6 @@ body {
 
 .btn:hover {
     border-color: red;
-    cursor: pointer;
-    background-color: black;
 }
 
 .btn.correct {
